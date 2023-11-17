@@ -1,7 +1,7 @@
 #include "core.h"
 
 /**
- * is_chain - checks if the the current char in the buffer is a chained delimiter
+ * is_chain - checks if the the current char in the buffer is chained delimiter
  * @info: the parameter struct
  * @buf: the char buffer
  * @p: address of current position in buf
